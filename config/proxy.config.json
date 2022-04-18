@@ -1,0 +1,12 @@
+{
+  "/api": {
+    "target": "https://10.202.250.196",
+    "secure": false,
+    "changeOrigin": true
+  },
+  "/c": {
+    "target": "https://10.202.250.196",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
